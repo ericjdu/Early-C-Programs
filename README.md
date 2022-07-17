@@ -1,2 +1,2 @@
 # Early-C-Programs
-This is a collection of programs that I created in my first year of college, written in C++
+This is a small collection of programs that I created in my first year of college, written in C++
